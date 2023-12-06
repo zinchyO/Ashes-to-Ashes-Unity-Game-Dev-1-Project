@@ -1,0 +1,3 @@
+rep "Tanks@KAMB@cloud"
+  path "/"
+    smartbranch "/main"
